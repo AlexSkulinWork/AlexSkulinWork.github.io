@@ -1,0 +1,18 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "SD72NEHJ5D.uk.co.reed.Jobs.dev", "SD72NEHJ5D.uk.co.reed.Jobs" ],
+             "components": [
+               {
+                  "/": "/auth/reset-password-success/",
+                  "comment": "Matches exact URL for password reset success"
+               }
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "SD72NEHJ5D.uk.co.reed.Jobs.dev", "SD72NEHJ5D.uk.co.reed.Jobs" ]
+   }
+}
